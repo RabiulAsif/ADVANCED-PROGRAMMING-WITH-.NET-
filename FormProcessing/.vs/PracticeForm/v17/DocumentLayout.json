@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\practiceform\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|solutionrelative:practiceform\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\practiceform\\practiceform\\views\\login\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|solutionrelative:practiceform\\views\\login\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\practiceform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|solutionrelative:practiceform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\practiceform\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|solutionrelative:practiceform\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\practiceform\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778DE346-9111-40F3-AB13-02B2119EDFE5}|PracticeForm\\PracticeForm.csproj|solutionrelative:practiceform\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Views\\Login\\Registration.cshtml",
+              "RelativeDocumentMoniker": "PracticeForm\\Views\\Login\\Registration.cshtml",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Views\\Login\\Registration.cshtml",
+              "RelativeToolTip": "PracticeForm\\Views\\Login\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T12:51:13.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "PracticeForm\\Models\\Student.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Models\\Student.cs",
+              "RelativeToolTip": "PracticeForm\\Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:46:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticeForm\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "PracticeForm\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T06:50:32.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "PracticeForm\\Models\\Login.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Models\\Login.cs",
+              "RelativeToolTip": "PracticeForm\\Models\\Login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:35:00.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PracticeForm\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\PracticeForm\\PracticeForm\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PracticeForm\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:46:11.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

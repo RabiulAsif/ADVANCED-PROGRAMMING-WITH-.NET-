@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|e:\\aiub\\11th semester\\dot net\\introef\\introef\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\introef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\introef\\ef\\umsmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\umsmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\introef\\ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\introef\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\introef\\ef\\umsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}",
+      "RelativeMoniker": "D:0:0:{A6CCA4C8-487A-4CC4-BCEC-25FF13217751}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\umsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\List.cshtml",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T06:59:33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:59:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UMSModel.Context.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\EF\\UMSModel.Context.cs",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\UMSModel.Context.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\EF\\UMSModel.Context.cs",
+              "RelativeToolTip": "IntroEF\\EF\\UMSModel.Context.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:59:33.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\EF\\Department.cs",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\Department.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\EF\\Department.cs",
+              "RelativeToolTip": "IntroEF\\EF\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:59:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\EF\\Student.cs",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\Student.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\EF\\Student.cs",
+              "RelativeToolTip": "IntroEF\\EF\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:59:33.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UMSModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\IntroEF\\IntroEF\\EF\\UMSModel.edmx",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\UMSModel.edmx",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\UMSModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-18T06:59:33.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

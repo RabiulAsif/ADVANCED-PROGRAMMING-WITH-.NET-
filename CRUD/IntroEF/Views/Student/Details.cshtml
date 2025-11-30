@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Details";
+}
+
+@*<h2>Details</h2>
+<h1>@Model.Id</h1>
+<h1>@Model.Name</h1>
+<h1>@Model.Gender</h1>
+<h1>@Model.Email</h1>*@
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>NAME</th>
+        <th>GENDER</th>
+        <th>EMAIL</th>
+    </tr>
+    <tr>
+        <td>@Model.Id</td>
+        <td>@Model.Name</td>
+        <td>@Model.Gender</td>
+        <td>@Model.Email</td>
+    </tr>
+</table>

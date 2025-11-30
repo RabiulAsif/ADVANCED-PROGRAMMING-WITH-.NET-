@@ -3,22 +3,40 @@
     ViewBag.Title = "List";
 }
 
+@if (TempData["Msg"] != null)
+ {
+   <p class="alert alert-info">@TempData["Msg"]</p>
+ }
+
 <h2>List</h2>
+<div class="row">
+    <form>
+        <input type="text" class="col-md-3 form-control" placeholder="Name" name="Search" />
+        <input type="submit" value="Search" class="col-md-1 btn btn-primary" />
+    </form>
+</div>
+
 <table class="table table-bordered">
     <tr>
         <th>ID</th>
-        <th>Name</th>
-        <th>Email</th>
-        <th>Gender</th>
+        <th>NAME</th>
+        <th>EMAIL</th>
+        <th>GENDER</th>
     </tr>
-    @foreach (var item in Model)
-    {
-        <tr>
-            <td>@item.Id</td>
-            <td>@item.Name</td>
-            <td>@item.Email</td>
-            <td>@item.Gender</td>
-        </tr>
-    }
+    @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Gender</td>
+
+                    <td>
+                        <a href="/student/details/@item.Id">Details</a>
+                        <a href="/student/update/@item.Id">Update</a>
+                        <a href="/student/delete/@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
 </table>
 

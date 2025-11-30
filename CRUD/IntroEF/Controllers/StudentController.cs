@@ -9,25 +9,75 @@ namespace IntroEF.Controllers
 {
     public class StudentController : Controller
     {
-        Fall25_AEntities db = new Fall25_AEntities();
-
+        IntroEFEntities db = new IntroEFEntities();
         // GET: Student
-        public ActionResult Index()
+
+        [HttpGet]
+        public ActionResult Create()
         {
-            var s = new Student() {
-                Name = "S1",
-                Email = "s.a@g.c",
-                Gender = "Male"
-            };
-
-            db.Students.Add(s);
-
-            db.SaveChanges();
-            return View();
+            return View(new Student());
         }
-        public ActionResult List() {
+
+        [HttpPost]
+        public ActionResult Create(Student s)
+        {
+            db.Students.Add(s);
+            db.SaveChanges();
+            TempData["Msg"] = "Student " + s.Name + " Created";
+            return RedirectToAction("List");
+        }
+        public ActionResult List(string search)
+        {
+            if (search != null)
+            {
+                var filter = (from s in db.Students
+                              where s.Name.Contains(search)
+                              select s).ToList();
+                return View(filter);
+            }
             var data = db.Students.ToList();
             return View(data);
         }
+
+        public ActionResult Details(int id)
+        {
+            var data = db.Students.Find(id);
+            return View(data);
+        }
+
+        [HttpGet]
+        public ActionResult Update(int id)
+        {
+            var data = db.Students.Find(id);
+            return View(data);
+        }
+        [HttpPost]
+        public ActionResult Update(Student s)
+        {
+            var dbObj = db.Students.Find(s.Id);
+            db.Entry(dbObj).CurrentValues.SetValues(s);
+            db.SaveChanges();
+            TempData["Msg"] = "Data Updated!";
+            return RedirectToAction("List");
+        }
+
+        [HttpGet]
+        public ActionResult Delete(int id)
+        {
+            var data = db.Students.Find(id);
+            return View(data);
+        }
+
+        [HttpPost]
+        public ActionResult Delete(Student s)
+        {
+            var data = db.Students.Find(s.Id);
+            db.Students.Remove(data);
+            db.SaveChanges();
+
+            TempData["Msg"] = "Data Deleted!";
+            return RedirectToAction("List");
+        }
+
     }
 }

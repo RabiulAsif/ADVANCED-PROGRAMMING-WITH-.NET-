@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9938D13A-7B61-4A48-B393-EF0B3CCC18FC}|APIApp\\APIApp.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\apiapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938D13A-7B61-4A48-B393-EF0B3CCC18FC}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938D13A-7B61-4A48-B393-EF0B3CCC18FC}|APIApp\\APIApp.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\apiapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938D13A-7B61-4A48-B393-EF0B3CCC18FC}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938D13A-7B61-4A48-B393-EF0B3CCC18FC}|APIApp\\APIApp.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9938D13A-7B61-4A48-B393-EF0B3CCC18FC}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\dal\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F540E16-3082-4CF8-AAC8-5F06FD294650}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\dal\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938D13A-7B61-4A48-B393-EF0B3CCC18FC}|APIApp\\APIApp.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9938D13A-7B61-4A48-B393-EF0B3CCC18FC}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\dal\\ef\\pmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\pmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\intro3tier\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532A11A9-33B0-4596-8A7A-71F9A622A9A2}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\APIApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "APIApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\APIApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "APIApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:36:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:28:35.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:21:11.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:56:49.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\APIApp\\Program.cs",
+              "RelativeDocumentMoniker": "APIApp\\Program.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\APIApp\\Program.cs",
+              "RelativeToolTip": "APIApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:10:21.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:09:27.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\APIApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "APIApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\APIApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "APIApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:15:28.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:31:06.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\EF\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Product.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\EF\\Models\\Product.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:19:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:37:29.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:47:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\APIApp\\appsettings.json",
+              "RelativeDocumentMoniker": "APIApp\\appsettings.json",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\APIApp\\appsettings.json",
+              "RelativeToolTip": "APIApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T08:04:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PMSContext.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\EF\\PMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\PMSContext.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\EF\\PMSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\PMSContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:27:42.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\EF\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Category.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\EF\\Models\\Category.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:22:32.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\Intro3Tier\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:10:16.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

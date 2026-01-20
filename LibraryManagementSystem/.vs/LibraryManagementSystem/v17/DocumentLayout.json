@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\repos\\borrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\borrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\interfaces\\icategoryfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icategoryfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\interfaces\\inotificationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\inotificationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E6FF60-FFAC-461B-9D60-466F3C9D8C42}|APIApp\\APIApp.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\apiapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E6FF60-FFAC-461B-9D60-466F3C9D8C42}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\ef\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\ef\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\bll\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|solutionrelative:bll\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\bll\\dtos\\borrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\borrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E6FF60-FFAC-461B-9D60-466F3C9D8C42}|APIApp\\APIApp.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E6FF60-FFAC-461B-9D60-466F3C9D8C42}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E867480-134B-4A52-8353-24CDA7557F65}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\repos\\notificationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\notificationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\ef\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E6FF60-FFAC-461B-9D60-466F3C9D8C42}|APIApp\\APIApp.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4E6FF60-FFAC-461B-9D60-466F3C9D8C42}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\ef\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|e:\\aiub\\11th semester\\dot net\\lab\\lab 3\\librarymanagementsystem\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925E0C6D-E999-42BD-A945-D758FB1A5B22}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\APIApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "APIApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\APIApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "APIApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:15:13.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0kAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:13:17.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryFeature.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Interfaces\\ICategoryFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICategoryFeature.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Interfaces\\ICategoryFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICategoryFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:13:57.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificationRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Interfaces\\INotificationRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\INotificationRepo.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Interfaces\\INotificationRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\INotificationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:28:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:10:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\BorrowRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BorrowRepo.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\BorrowRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BorrowRepo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:34:35.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:33:21.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\User.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:19:28.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:35:47.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Category.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\Category.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:03:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Borrow.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\Borrow.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Borrow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:21:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Book.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\Book.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Book.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:05:59.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\BookRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BookRepo.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\BookRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BookRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:21:13.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:56:34.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\APIApp\\Program.cs",
+              "RelativeDocumentMoniker": "APIApp\\Program.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\APIApp\\Program.cs",
+              "RelativeToolTip": "APIApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:35:44.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:17:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationRepo.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\NotificationRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\NotificationRepo.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Repos\\NotificationRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\NotificationRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:29:08.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\Services\\BorrowService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BorrowService.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\Services\\BorrowService.cs",
+              "RelativeToolTip": "BLL\\Services\\BorrowService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:58:28.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T14:50:36.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BorrowDTO.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\DTOs\\BorrowDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BorrowDTO.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\BLL\\DTOs\\BorrowDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BorrowDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:17:32.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Notification.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\Models\\Notification.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Notification.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:23:11.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\APIApp\\appsettings.json",
+              "RelativeDocumentMoniker": "APIApp\\appsettings.json",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\APIApp\\appsettings.json",
+              "RelativeToolTip": "APIApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T22:33:49.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\LibraryContext.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\EF\\LibraryContext.cs",
+              "RelativeToolTip": "DAL\\EF\\LibraryContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:30:30.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "E:\\AIUB\\11th Semester\\DOT NET\\Lab\\Lab 3\\LibraryManagementSystem\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:17:42.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
